@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Credentials (NEVER commit these)
+.deep-insights-credentials.json
+*credentials*.json
+!scripts/promote_config.example.json
+
+# State files
+.deep-insights-promote-state.json
+
+# Output data
+deep-insights-output/
+session_summaries/
+*.html
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

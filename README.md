@@ -150,7 +150,7 @@ Found a bug or have a feature idea? [Open an issue](https://github.com/zaronian/
 Pull requests welcome. Please:
 - Keep changes focused and minimal
 - Test with real session data if possible
-- No external Python dependencies (stdlib only is a hard requirement)
+- No external Python dependencies (stdlib only is a hard requirement for the core tool)
 
 ## License
 
