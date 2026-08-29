@@ -158,4 +158,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-*Built by [Snowline Consulting](https://github.com/zaronian). Analyzes your Claude Code sessions so you can work smarter.*
+*Built by [Lightswitch Labs](https://lightswitchlabs.ai). Analyzes your Claude Code sessions so you can work smarter.*
